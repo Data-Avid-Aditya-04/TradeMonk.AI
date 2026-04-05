@@ -1,0 +1,10 @@
+# ── JARVIS AI Brain (Gemini) ──
+# Get free API key: https://aistudio.google.com/apikey
+VITE_GEMINI_API_KEY=AIzaSyB9rh61ltfEOrbc13Pi3Rwo0CzqXBifg7U
+
+# ── JARVIS Voice (ElevenLabs) ──
+# Get free API key: https://elevenlabs.io → Profile → API Key
+VITE_ELEVENLABS_API_KEY=
+
+# (Optional) ElevenLabs voice ID
+# VITE_ELEVENLABS_VOICE_ID=onwK4e9ZLuTAKqWW03F9
